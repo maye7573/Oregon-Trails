@@ -1,0 +1,2 @@
+
+g++ -std=c++11 -oproject3 Player.cpp Inventory.cpp Store.cpp River.cpp Fort.cpp TrailHelper.cpp Trail.cpp project.cpp
